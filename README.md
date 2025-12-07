@@ -1,7 +1,5 @@
 # High-Fidelity LAGEOS-1 Orbital Propagator
 
-![Orbit Visualization](orbit_visualisation.png)
-
 ### 🚀 Project Overview
 This project is a high-precision **N-Body orbital simulation** developed in MATLAB. It propagates the trajectory of the **LAGEOS-1** satellite over a 24-hour period, accounting for complex gravitational perturbations.
 
