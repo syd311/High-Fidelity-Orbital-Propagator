@@ -1,9 +1,6 @@
 # Space Surveillance & Tracking (SST) Engine
 ### High-Fidelity N-Body Propagator & Collision Avoidance System
 
-![Output](High-Fidelity-Orbital-Propagator/High Fidelity Orbital Propagator
-/SST_Conjunction_Event.png)
-
 ## Project Overview
 This project is an operational Space Surveillance and Tracking (SST) tool developed in MATLAB. It combines a high-fidelity N-Body Orbit Propagator with a Conjunction Analysis module to detect collision risks between satellites and space debris.
 
